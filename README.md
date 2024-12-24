@@ -1,2 +1,3 @@
 # demorepo
-this ia my demo repository
+this is my demo repository
+author- manya jain
